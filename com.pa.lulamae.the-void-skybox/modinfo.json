@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.the-void-skybox",
+  "display_name": "The Void Skybox",
+  "description": "When even the light of distant stars hurts your eyes, place your system in an empty universe",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/the-void-skybox.73217/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/the-void-skybox-icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.the-void-skybox/settings.js"
+      ]
+  }
+}
